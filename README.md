@@ -46,6 +46,7 @@ GROQ_API_KEY=your_key_here
 streamlit run app.py
 
 ## 📁 Project Structure
+```bash
 day15-rag-evaluation/
 ├── app.py                # Streamlit UI, 3 tabs
 ├── rag_engine.py         # RAG pipeline
@@ -54,6 +55,7 @@ day15-rag-evaluation/
 ├── requirements.txt      # Dependencies
 ├── .env                  # API key (not committed)
 └── .gitignore
+```
 
 ## 🔗 Part of 30-Day AI Engineering Bootcamp
 Day 15 of 30 | RAG & Vector Databases Phase
