@@ -32,8 +32,8 @@ Built with Groq, ChromaDB, Sentence Transformers, and Streamlit.
 ## 🚀 Setup & Run
 
 ### 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/day15-rag-evaluation
-cd day15-rag-evaluation
+git clone https://github.com/PrashikSawant/RAG-Evaluation-System \
+cd rag-evaluation
 
 ### 2. Install dependencies
 pip install -r requirements.txt
@@ -59,3 +59,10 @@ day15-rag-evaluation/
 
 ## 🔗 Part of 30-Day AI Engineering Bootcamp
 Day 15 of 30 | RAG & Vector Databases Phase
+
+## 👨‍💻 About Me
+
+I am Prashik — an aspiring AI Engineer currently on a 4-month intensive
+journey to become job-ready in Generative AI Engineering.
+
+Follow my journey on [LinkedIn](https://www.linkedin.com/in/prashik-sawant-ds/)
